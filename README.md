@@ -45,7 +45,6 @@ above).
 Run any file in `/sql` directly in MySQL Workbench or the command line:
 ```
    mysql -u root -p olist < sql/q1_top_customers.sql
-```
-   mysql -u root -p olist < sql/q1_top_customers.sql
+
    ```
    ```
